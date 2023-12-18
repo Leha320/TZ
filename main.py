@@ -33,8 +33,6 @@ def eval(question):
   elif operator == "/":
     return num1 / num2
   
-
-print(eval('2 * 3'))
      
     
   
